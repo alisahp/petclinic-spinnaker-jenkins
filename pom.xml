@@ -303,7 +303,7 @@
           </execution>
         </executions>
         <configuration>
-          <repository>ibuchh/spring-petclinic</repository>
+          <repository>alisahp/spring-petclinic</repository>
         </configuration>
       </plugin-->
 
